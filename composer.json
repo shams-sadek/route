@@ -1,0 +1,20 @@
+{
+    "name": "shams1978/hms_indoor",
+    "description": "This is Hospital Indoor Testing Project",
+    "type": "project",
+    "require": {
+    },
+    "autoload": {
+      "psr-4": {
+        "Acme\\": "src"
+      }
+    },
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "shams sadek",
+            "email": "shams_sadek@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
